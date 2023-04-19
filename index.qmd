@@ -1,0 +1,13 @@
+---
+title: "suzu_middle"
+---
+
+## for the suzu-top
+
+suzu-top:suzuemon-table
+
+suzu-middle:suzuemon-mac
+
+suzu-botom:5kai-rouka
+
+[slide](1st_reading.qmd)

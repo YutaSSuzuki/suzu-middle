@@ -1,0 +1,16 @@
+{
+  "hash": "ce9b7358757e7b8bf2e459b1e0574bd3",
+  "result": {
+    "markdown": "---\ntitle: \"suzu_middle\"\n---\n\n\n## for the suzu-top\n\nsuzu-top:suzuemon-table\nsuzu-middle:suzuemon-mac\nsuzu-botom:5kai-rouka\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "suzu_middle_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
